@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
-         <seriesStmt><title>DH Summerschool - Antwerp 2024</title></seriesStmt>
+         <publicationStmt><publisher>DH Summerschool - Antwerp 2024</publisher></publicationStmt>
          <sourceDesc>
             <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
          </sourceDesc>
@@ -16,7 +16,7 @@
    <facsimile>
       <surface ulx="0" uly="0" lrx="5310" lry="7115" xml:id="facs_1">
          <graphic url="038_17v.jpeg" width="5310px" height="7115px"/>
-         <graphic url="https://files.transkribus.eu/Get?fileType=view&id=WONRLFBKDEECQEGRROAEXPQG"
+         <graphic url="page_38.jpeg"
             width="5310px" height="7115px"/>
          <zone points="4517,282 4876,282 4876,605 4517,605" rendition="TextRegion"
             xml:id="facs_1_r_1" subtype="page-number">
@@ -75,36 +75,36 @@
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             <fw type="page-number" facs="#facs_1_r_1" place="top">
-               <l facs="#facs_1_r_1_tl_1" n="N001"/>16</l></fw>
+               <lb facs="#facs_1_r_1_tl_1" n="N001"/>16</fw>
             
             <p facs="#facs_1_r">
-               <l facs="#facs_1_r_tl_1" n="N001"/> "I will not be sure but I believe that it was
+               <lb facs="#facs_1_r_tl_1" n="N001"/> "I will not be sure but I believe that it was
                only half down. 
-               <l facs="#facs_1_r_tl_2" n="N002"/> Yes, I remember how he guilled it
+               <lb facs="#facs_1_r_tl_2" n="N002"/> Yes, I remember how he guilled it
                up in order to swing open the 
-               <l facs="#facs_1_r_tl_3" n="N003"/> window. I could not 
+               <lb facs="#facs_1_r_tl_3" n="N003"/> window. I could not 
                find my stick and he said "never mind, 
-               <l facs="#facs_1_r_tl_4" n="N004"/> my boy, I
-               shall see a good deal of you now, I hope, and <del><hi style=""text_decoration: line-through;>I</hi></del><add place="above" facs="#facs_1_l" n="N001">, I</add>
-               </ab> will <l
+               <lb facs="#facs_1_r_tl_4" n="N004"/> my boy, I
+               shall see a good deal of you now, I hope, and <del><hi style="text_decoration: line-through;">I</hi></del><add place="above" facs="#facs_1_l" n="N001">, I</add>
+                will <lb
                   facs="#facs_1_r_tl_5" n="N005"/> not keep your stick until you come back to claim
-               it." I left him <l facs="#facs_1_r_tl_6" n="N006"/> there, the safe open, and the
-               papers made up in packets upon the <l facs="#facs_1_r_tl_7" n="N007"/> table. It was
-               so late that I could not get back to <rs type="place">Blackheath</rs> as I <l
+               it." I left him <lb facs="#facs_1_r_tl_6" n="N006"/> there, the safe open, and the
+               papers made up in packets upon the <lb facs="#facs_1_r_tl_7" n="N007"/> table. It was
+               so late that I could not get back to <rs type="place">Blackheath</rs> as I <lb
                   facs="#facs_1_r_tl_8" n="N008"/> spent the night at the <rs type="place">Anerley
-                  Arms</rs> , and I knew nothing more <l facs="#facs_1_r_tl_9" n="N009"/> until I
+                     Arms</rs> , and I knew nothing more <lb facs="#facs_1_r_tl_9" n="N009"/> until I
                read of this horible affair in the morning" </p>
             <p facs="#facs_1_r_4">
-               <l facs="#facs_1_r_4_tl_1" n="N001"/> "Anything more that you would like to ask, mr.
-                  <rs type="person">Holmes</rs>?"<l facs="#facs_1_r_4_tl_2" n="N002"/> said <rs
-                  type="person">Lestrade</rs> , whose eyebrows had gone up once or twice during <l
-                  facs="#facs_1_r_4_tl_3" n="N003"/> this remarkable explanation. </p>
+               <lb facs="#facs_1_r_4_tl_1" n="N001"/> "Anything more that you would like to ask, mr.
+               <rs type="person">Holmes</rs>?"<lb facs="#facs_1_r_4_tl_2" n="N002"/> said <rs
+                  type="person">Lestrade</rs> , whose eyebrows had gone up once or twice during <lb
+                     facs="#facs_1_r_4_tl_3" n="N003"/> this remarkable explanation. </p>
             <p facs="#facs_1_r_5">
-               <l facs="#facs_1_r_5_tl_2" n="N001"/> "Not until I have been to <del>
+               <lb facs="#facs_1_r_5_tl_2" n="N001"/> "Not until I have been to <del>
                   <rs type="place">Norwood</rs>
                </del><add place="above" facs="#facs_1_l_1" n="N001">
                   <rs type="place">Blackheath</rs>
-               </add>" </p>               
+               </add>"</p>               
          </div>
       </body>
    </text>
