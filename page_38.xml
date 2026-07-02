@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2024</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5310" lry="7115" xml:id="facs_1">
+         <graphic url="038_17v.jpeg" width="5310px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&id=WONRLFBKDEECQEGRROAEXPQG"
+            width="5310px" height="7115px"/>
+         <zone points="4517,282 4876,282 4876,605 4517,605" rendition="TextRegion"
+            xml:id="facs_1_r_1" subtype="page-number">
+            <zone points="4505,289 4770,289 4770,578 4505,578" rendition="Line"
+               xml:id="facs_1_r_1_tl_1"/>
+         </zone>
+         <zone points="4433,2008 4660,2008 4660,2186 4433,2186" rendition="TextRegion"
+            xml:id="facs_1_r_3" subtype="add">
+            <zone points="4414,2012 4595,2012 4595,2228 4414,2228" rendition="Line"
+               xml:id="facs_1_l"/>
+         </zone>
+         <zone points="110,1089 5199,1089 5199,3904 110,3904" rendition="TextRegion"
+            xml:id="facs_1_r" subtype="paragraph">
+            <zone points="614,1144 4975,1144 4975,1512 614,1512" rendition="Line"
+               xml:id="facs_1_r_tl_1"/>
+            <zone points="187,1421 4637,1421 4637,1873 187,1873" rendition="Line"
+               xml:id="facs_1_r_tl_2"/>
+            <zone points="199,1783 5011,1783 5011,2120 199,2120" rendition="Line"
+               xml:id="facs_1_r_tl_3"/>
+            <zone points="205,2084 4908,2084 4908,2463 205,2463" rendition="Line"
+               xml:id="facs_1_r_tl_4"/>
+            <zone points="223,2355 5005,2355 5005,2764 223,2764" rendition="Line"
+               xml:id="facs_1_r_tl_5"/>
+            <zone points="223,2632 5023,2632 5023,3041 223,3041" rendition="Line"
+               xml:id="facs_1_r_tl_6"/>
+            <zone points="211,2969 5053,2969 5053,3300 211,3300" rendition="Line"
+               xml:id="facs_1_r_tl_7"/>
+            <zone points="235,3270 5053,3270 5053,3650 235,3650" rendition="Line"
+               xml:id="facs_1_r_tl_8"/>
+            <zone points="289,3535 4071,3535 4071,3939 289,3939" rendition="Line"
+               xml:id="facs_1_r_tl_9"/>
+         </zone>
+         <zone points="158,3842 5202,3842 5202,4768 158,4768" rendition="TextRegion"
+            xml:id="facs_1_r_4" subtype="paragraph">
+            <zone points="1132,3854 5119,3854 5119,4192 1132,4192" rendition="Line"
+               xml:id="facs_1_r_4_tl_1"/>
+            <zone points="205,4131 4848,4131 4848,4517 205,4517" rendition="Line"
+               xml:id="facs_1_r_4_tl_2"/>
+            <zone points="199,4475 2487,4475 2487,4818 199,4818" rendition="Line"
+               xml:id="facs_1_r_4_tl_3"/>
+         </zone>
+         <zone points="1010,4775 3861,4775 3861,5119 1010,5119" rendition="TextRegion"
+            xml:id="facs_1_r_5" subtype="paragraph">
+            <zone points="1223,4776 3692,4776 3692,5053 1223,5053" rendition="Line"
+               xml:id="facs_1_r_5_tl_2"/>
+         </zone>
+         <zone points="2975,4673 3698,4673 3698,4863 2975,4863" rendition="TextRegion"
+            xml:id="facs_1_r_2" subtype="add">
+            <zone points="2963,4601 3601,4601 3601,4902 2963,4902" rendition="Line"
+               xml:id="facs_1_l_1"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <fw type="page-number" facs="#facs_1_r_1" place="top">
+               <l facs="#facs_1_r_1_tl_1" n="N001"/>16</l></fw>
+            
+            <p facs="#facs_1_r">
+               <l facs="#facs_1_r_tl_1" n="N001"/> "I will not be sure but I believe that it was
+               only half down. 
+               <l facs="#facs_1_r_tl_2" n="N002"/> Yes, I remember how he guilled it
+               up in order to swing open the 
+               <l facs="#facs_1_r_tl_3" n="N003"/> window. I could not 
+               find my stick and he said "never mind, 
+               <l facs="#facs_1_r_tl_4" n="N004"/> my boy, I
+               shall see a good deal of you now, I hope, and <del><hi style=""text_decoration: line-through;>I</hi></del><add place="above" facs="#facs_1_l" n="N001">, I</add>
+               </ab> will <l
+                  facs="#facs_1_r_tl_5" n="N005"/> not keep your stick until you come back to claim
+               it." I left him <l facs="#facs_1_r_tl_6" n="N006"/> there, the safe open, and the
+               papers made up in packets upon the <l facs="#facs_1_r_tl_7" n="N007"/> table. It was
+               so late that I could not get back to <rs type="place">Blackheath</rs> as I <l
+                  facs="#facs_1_r_tl_8" n="N008"/> spent the night at the <rs type="place">Anerley
+                  Arms</rs> , and I knew nothing more <l facs="#facs_1_r_tl_9" n="N009"/> until I
+               read of this horible affair in the morning" </p>
+            <p facs="#facs_1_r_4">
+               <l facs="#facs_1_r_4_tl_1" n="N001"/> "Anything more that you would like to ask, mr.
+                  <rs type="person">Holmes</rs>?"<l facs="#facs_1_r_4_tl_2" n="N002"/> said <rs
+                  type="person">Lestrade</rs> , whose eyebrows had gone up once or twice during <l
+                  facs="#facs_1_r_4_tl_3" n="N003"/> this remarkable explanation. </p>
+            <p facs="#facs_1_r_5">
+               <l facs="#facs_1_r_5_tl_2" n="N001"/> "Not until I have been to <del>
+                  <rs type="place">Norwood</rs>
+               </del><add place="above" facs="#facs_1_l_1" n="N001">
+                  <rs type="place">Blackheath</rs>
+               </add>" </p>               
+         </div>
+      </body>
+   </text>
+</TEI>
