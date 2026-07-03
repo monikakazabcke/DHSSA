@@ -1,6 +1,10 @@
 body {
-
+  background-color: rgb(202, 203, 196);
+  font-size:medium;
+  font-style: oblique;
 }
+
+
 .starter-template {
   padding: 40px 15px;
   text-align: center;
@@ -12,6 +16,8 @@ img {
 
 p {
     text-indent: 10px;
+    color: rgb(0, 0, 0);
+    font-family: "Courier New", Courier, monospace;
 }
 
 .row {
